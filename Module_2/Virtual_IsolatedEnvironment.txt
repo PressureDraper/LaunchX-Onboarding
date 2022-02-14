@@ -1,0 +1,11 @@
+Create:
+python -m venv env
+
+execute:
+env/Scripts/activate
+
+
+pip freeze : show pip packages already installed
+
+desactivate:
+deactivate
